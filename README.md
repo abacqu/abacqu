@@ -3,7 +3,7 @@
 I am a full-stack developer looking to create products to help people around the world. One of my favorite things about this industry is learning and sharing skills I have developed over my career to help move people forward.  
 
 Skills:
-JavaScript · Python · SQL · React · Node.js · Express.js · MongoDB · Mongoose · RESTful Routing · HTML · CSS · JSON · MERN stack · MVC · Git · EJS · SAS · Tableau · Docker · Jenkins · Latex
+JavaScript · Python · SQL · React · Node.js · Express.js · MongoDB · Mongoose · RESTful Routing · HTML · CSS · JSON · MERN stack · MVC · Git · EJS · SAS · Tableau · Docker · Jenkins · PowerBI
 
 <!--
 **abacqu/abacqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
